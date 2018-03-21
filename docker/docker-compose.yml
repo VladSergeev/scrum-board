@@ -1,0 +1,5 @@
+startup:
+  restart: always
+  image: 185.185.68.238/startup
+  ports:
+    - 8080:8080
